@@ -60,7 +60,8 @@ a {
 	text-decoration: none;
 	margin-top: 5.5em;
   	font-size: 450%;
-  	color: #F5F5F5;
+  	color: red; 
+	/* #F5F5F5; */
 }
 
 p {
